@@ -1,5 +1,5 @@
--- 1 Seleccionamos la base de datos Proyecto
-use proyecto;
+-- 1 Seleccionamos la base de datos proyecto_ud5
+use proyecto_ud5;
 -- 2.- Creamos la tabla usuarios
 create table usuarios(
 usuario varchar(20) primary key,

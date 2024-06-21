@@ -1,6 +1,6 @@
--- Datos para las tablas de la base de datos proyecto
+-- Datos para las tablas de la base de datos proyecto_ud5
 
-use proyecto;
+use proyecto_ud5;
 
 -- Tabla familias
 
